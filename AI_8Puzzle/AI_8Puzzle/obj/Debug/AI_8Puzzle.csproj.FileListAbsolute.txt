@@ -1,0 +1,7 @@
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\bin\Debug\AI_8Puzzle.exe.config
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\bin\Debug\AI_8Puzzle.exe
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\bin\Debug\AI_8Puzzle.pdb
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\obj\Debug\AI_8Puzzle.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\obj\Debug\AI_8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\obj\Debug\AI_8Puzzle.exe
+C:\Users\TOSHIBA\source\repos\AI_8Puzzle\AI_8Puzzle\obj\Debug\AI_8Puzzle.pdb
