@@ -1,2 +1,5 @@
-# 8-Puzzle_Artificial_Intelligence
-Search Algorithms on 8-Puzzle
+# 8-Puzzle
+
+## AStar, Greedy-best first, Uniform-cost, Iterative-deepening, Breadth-first and Depth-first searches
+
+These implementation on the 8-Puzzle game
